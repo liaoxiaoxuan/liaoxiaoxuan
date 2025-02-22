@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I am liaoxiaoxuan. A developer working at Synopsys Inc.
+## Hi, I am liaoxiaoxuan. A developer working at Mediatek Inc.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=Every%20commit%20builds%20the%20future%20as%20each%20line%20plants%20the%20seed%20of%20tomorrow.
 )](https://github.com/piyushsuthar/github-readme-quotes)
