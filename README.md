@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi, I’m Liaoxiaoxuan
-## – A Tech Enthusiast Shaping Dependability at MediaTek Inc.
+# Hi, I’m Liaoxiaoxuan – A Tech Enthusiast Shaping Dependability at MediaTek Inc.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=Transforming%20ideas%20into%20code%2C%20building%20tomorrow%20one%20commit%20at%20a%20time.
 )](https://github.com/piyushsuthar/github-readme-quotes)
