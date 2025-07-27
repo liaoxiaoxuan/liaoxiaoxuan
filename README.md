@@ -7,11 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Liao-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
 <!-- 上方可加入更多 badge，如 blog、portfolio 等 -->
 
-<br/>
-
-📧 [lxx.career@gmail.com](mailto:lxx.career@gmail.com) ｜ 🔗 [GitHub](https://github.com/liaoxiaoxuan)
-<!-- 下方可加 emoji 風格的聯絡資訊，對手機、小螢幕更友善 -->
-
 </div>
 
 ---
