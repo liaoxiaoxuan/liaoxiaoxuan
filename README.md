@@ -27,13 +27,13 @@ I also enjoy freelance projects involving data crawling, automated reporting, an
 ## 📖 Table of Contents
 
 - [✨ About Me](#about-me)
-- [🛠️ Skills](#skills)
+- [🛠️ Skills](#skills--技術專長)
 - [🚀 Projects / 代表作品](#projects--代表作品)
-- [💼 Freelance Projects / 專業接案](#freelance-projects--專業接案)
+- [💼 Freelance Projects / 專業接案](#freelance-projects--技術委託開發實例)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills 技術專長
 
 - 🐼 **Data Analysis & Automation**: Pandas, Xlwings, NumPy, Openpyxl, CSV
 - 🕸️ **Web Scraping**: SeleniumBase, Playwright, Requests
