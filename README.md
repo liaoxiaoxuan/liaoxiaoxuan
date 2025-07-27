@@ -72,8 +72,18 @@ AI-based content preference recommender for helping users choose the right strea
 
 ---
 
-🌱 Always learning and open for collaboration.｜歡迎交流合作！🚀
+## 📊 GitHub Skill & Activity Overview
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaoxiaoxuan&show_icons=true&layout=compact&hide=issues&line_height=24)](https://github.com/liaoxiaoxuan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaoxiaoxuan&layout=compact)](https://github.com/liaoxiaoxuan/github-readme-stats)
 
 ---
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=Transforming%20ideas%20into%20code%2C%20building%20tomorrow%20one%20commit%20at%20a%20time.)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+🌱 Always learning and open for collaboration.｜歡迎交流合作！🚀
+
 
 <!-- Optionally add LinkedIn, Blog, or other contact links here -->
