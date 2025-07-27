@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Liao-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/angelliaolxx)  
 <!-- 上方可加入更多 badge，如 blog、portfolio 等 -->
 
+**Only by embracing change can we create the future—so I help teams and businesses boost productivity with robust automation solutions.**
+
 </div>
 
 ---
