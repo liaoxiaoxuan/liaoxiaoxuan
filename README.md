@@ -7,7 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Liao-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/angelliaolxx)  
 <!-- 上方可加入更多 badge，如 blog、portfolio 等 -->
 
-**Only by embracing change can we create the future—so I help teams and businesses boost productivity with robust automation solutions.**
+
+**Python Developer · Data Automation Enthusiast**
+
+*Only by embracing change can we create the future—so I help teams and businesses boost productivity with robust automation solutions.*
 
 </div>
 
@@ -67,7 +70,7 @@ AI-based content preference recommender for helping users choose the right strea
 
 ---
 
-## 💼 Freelance Projects / 專業接案
+## 💼 Freelance Projects / 技術委託開發實例
 
 - **Weather Subscription Bot 天氣訂閱機器人 (2025.06 – 2025.07)**  
   LINE bot delivering real-time weather and air quality alerts.  
