@@ -4,7 +4,7 @@
 
 [![Gmail](https://img.shields.io/badge/email-lxx.career@gmail.com-red?style=flat-square&logo=gmail)](mailto:lxx.career@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@liaoxiaoxuan-181717?style=flat-square&logo=github)](https://github.com/liaoxiaoxuan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Liao-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Liao-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/angelliaolxx)  
 <!-- 上方可加入更多 badge，如 blog、portfolio 等 -->
 
 </div>
