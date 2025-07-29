@@ -63,13 +63,13 @@ A personalized practice platform for algorithm mastery and interview preparation
 
 ---
 
-### 🤖 AI Streaming Platform Recommender [![GitHub](https://img.shields.io/badge/Repo-Source-blue?logo=github)](https://github.com/liaoxiaoxuan/ai-streaming-platform-recommender) [🌐 Demo](https://your-demo-url.com)
+### 🤖 AI Streaming Platform Recommender [![GitHub](https://img.shields.io/badge/Repo-Source-blue?logo=github)](https://github.com/liaoxiaoxuan/stream_AI_advisor) [🌐 Demo](https://pickyourstreambetweennetflixanddisneyplus.streamlit.app/)
 **AI 串流媒體平台推薦系統 (2024.06 – 2025.01)**  
 AI-based content preference recommender for helping users choose the right streaming platforms.  
 開發基於內容偏好的 AI 推薦系統，協助選擇適合的訂閱平台。  
 *Tech:* Pandas, NumPy, TextBlob, Matplotlib, Streamlit  
-**Repository:** [GitHub](https://github.com/liaoxiaoxuan/ai-streaming-platform-recommender)  
-**Demo:** [External Link](https://your-demo-url.com)
+**Repository:** [GitHub](https://github.com/liaoxiaoxuan/stream_AI_advisor)  
+**Demo:** [External Link](https://pickyourstreambetweennetflixanddisneyplus.streamlit.app/)
 
 ---
 
