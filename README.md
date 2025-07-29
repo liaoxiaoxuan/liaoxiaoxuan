@@ -26,18 +26,10 @@ I also enjoy freelance projects involving data crawling, automated reporting, an
 
 ## 📖 Table of Contents
 
-- [✨ About Me](#about-me)
-- [🛠️ Skills](#skills--技術專長)
-- [🚀 Projects / 代表作品](#projects--代表作品)
-- [💼 Freelance Projects / 專業接案](#freelance-projects--技術委託開發實例)
-
 - [👩‍💻 Angel Liao](#------angel-liao)
   * [✨ About Me](#--about-me)
   * [🛠️ Skills 技術專長](#----skills-----)
   * [🚀 Projects / 代表作品](#---projects-------)
-    + [🏷️ Asset Number & HUID Automation Tool  <sup>Private</sup>](#----asset-number---huid-automation-tool---sup-private--sup-)
-    + [👨‍💻 LeetCoach — Personalized LeetCode Training  <sup>Unreleased</sup>](#------leetcoach---personalized-leetcode-training---sup-unreleased--sup-)
-    + [🤖 AI Streaming Platform Recommender [![GitHub](https://img.shields.io/badge/Repo-Source-blue?logo=github)](https://github.com/liaoxiaoxuan/stream_AI_advisor) [🌐 Demo](https://pickyourstreambetweennetflixanddisneyplus.streamlit.app/)](#---ai-streaming-platform-recommender----github--https---imgshieldsio-badge-repo-source-blue-logo-github---https---githubcom-liaoxiaoxuan-stream-ai-advisor------demo--https---pickyourstreambetweennetflixanddisneyplusstreamlitapp--)
   * [💼 Freelance Projects / 技術委託開發實例](#---freelance-projects-----------)
   * [📊 GitHub Skill & Activity Overview](#---github-skill---activity-overview)
 
