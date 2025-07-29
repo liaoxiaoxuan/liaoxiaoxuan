@@ -45,42 +45,47 @@ I also enjoy freelance projects involving data crawling, automated reporting, an
 
 ## 🚀 Projects / 代表作品
 
-### 🏷️ Asset Number & HUID Automation Tool  
+### 🏷️ Asset Number & HUID Automation Tool  <sup>Private</sup>
 **資產編號與 HUID 自動化整理工具 (2025.04 – Now)**  
 An Excel-based automation system for asset management, streamlining data organization and label generation.  
 協助公司資產管理部門打造 Excel 自動整理與標籤生成系統，簡化操作流程。  
-*Tech:* Openpyxl, Xlwings, PyInstaller
+*Tech:* Openpyxl, Xlwings, PyInstaller  
+**Repository:** Not available (Internal use)
 
 ---
 
-### 👨‍💻 LeetCoach — Personalized LeetCode Training  
+### 👨‍💻 LeetCoach — Personalized LeetCode Training  <sup>Unreleased</sup>
 **LeetCoach — LeetCode 刷題私人教練網 (2025.03 – Now)**  
 A personalized practice platform for algorithm mastery and interview preparation.  
 個人化練習平台，提升解題能力與掌握演算法核心。  
-*Tech:* React, Tailwind CSS, Django, SQLite
+*Tech:* React, Tailwind CSS, Django, SQLite  
+**Repository:** Not yet released
 
 ---
 
-### 🤖 AI Streaming Platform Recommender  
+### 🤖 AI Streaming Platform Recommender [![GitHub](https://img.shields.io/badge/Repo-Source-blue?logo=github)](https://github.com/liaoxiaoxuan/ai-streaming-platform-recommender) [🌐 Demo](https://your-demo-url.com)
 **AI 串流媒體平台推薦系統 (2024.06 – 2025.01)**  
 AI-based content preference recommender for helping users choose the right streaming platforms.  
 開發基於內容偏好的 AI 推薦系統，協助選擇適合的訂閱平台。  
-*Tech:* Pandas, NumPy, TextBlob, Matplotlib, Streamlit
+*Tech:* Pandas, NumPy, TextBlob, Matplotlib, Streamlit  
+**Repository:** [GitHub](https://github.com/liaoxiaoxuan/ai-streaming-platform-recommender)  
+**Demo:** [External Link](https://your-demo-url.com)
 
 ---
 
 ## 💼 Freelance Projects / 技術委託開發實例
 
-- **Weather Subscription Bot 天氣訂閱機器人 (2025.06 – 2025.07)**  
+- **Weather Subscription Bot 天氣訂閱機器人 (2025.06 – 2025.07)** <sup>NDA</sup>  
   LINE bot delivering real-time weather and air quality alerts.  
   開發 LINE 機器人，提供即時天氣、空氣品質等資訊的自動推播功能。  
-  *Tech:* Flask, LINE Bot SDK, Requests, Schedule, JSON
+  *Tech:* Flask, LINE Bot SDK, Requests, Schedule, JSON  
+  **Repository:** Not available (Contract/NDA)
 
-- **Leju Real Estate Crawler 樂居房地產資料爬蟲 (2025.03)**  
+- **Leju Real Estate Crawler 樂居房地產資料爬蟲 (2025.03)** <sup>NDA</sup>  
   Real estate site crawler with anti-crawling adaptation, enabling bulk project data extraction.  
   打造房地產網站爬蟲系統，批量擷取建案資訊，具備反爬蟲處理能力。  
-  *Tech:* SeleniumBase, Undetected Chromedriver, concurrent.futures, argparse, JSON
-
+  *Tech:* SeleniumBase, Undetected Chromedriver, concurrent.futures, argparse, JSON  
+  **Repository:** Not available (Contract/NDA)
 ---
 
 🌱 Always learning and open for collaboration.｜歡迎交流合作！🚀
