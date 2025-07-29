@@ -26,16 +26,15 @@ I also enjoy freelance projects involving data crawling, automated reporting, an
 
 ## 📖 Table of Contents
 
-- [👩‍💻 Angel Liao](#------angel-liao)
-  * [✨ About Me](#--about-me)
-  * [🛠️ Skills 技術專長](#----skills-----)
-  * [🚀 Projects / 代表作品](#---projects-------)
-  * [💼 Freelance Projects / 技術委託開發實例](#---freelance-projects-----------)
-  * [📊 GitHub Skill & Activity Overview](#---github-skill---activity-overview)
+- [👩‍💻 Angel Liao](#Angel-Liao)
+  * [✨ About Me](##About-Me)
+  * [🛠️ Skills / 技術專長](##Skills--技術專長)
+  * [🚀 Projects / 代表作品](##Projects--代表作品)
+  * [💼 Freelance Projects / 技術委託開發實例](##Freelance-Projects--技術委託開發實例)
 
 ---
 
-## 🛠️ Skills 技術專長
+## 🛠️ Skills / 技術專長
 
 - 🐼 **Data Analysis & Automation**: Pandas, Xlwings, NumPy, Openpyxl, CSV
 - 🕸️ **Web Scraping**: SeleniumBase, Playwright, Requests
